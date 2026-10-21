@@ -1,0 +1,4 @@
+interface:
+  display_name: "项目叙事与 YC 路演教练"
+  short_description: "从理解项目到梳理七问，逐步补齐未知信息，形成有证据的路演与答辩"
+  default_prompt: "请使用 $yc-pitch-coach 先理解我的项目，逐步引导我回答关键问题，再整理成适合目标听众的项目故事与路演稿。"
